@@ -1,0 +1,23 @@
+{
+  "name": "emitter",
+  "version": "0.0.5",
+  "description": "Bind an event to a `callback` function. Passing all will bind the callback to all events fired.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dima-bu/emitter.git"
+  },
+  "keywords": [
+    "react",
+    "emitter",
+    "eventbus"
+  ],
+  "author": "Andrey Shetinin",
+  "license": "MIT",
+  "devDependencies": {
+
+  },
+  "dependencies": {
+    "lodash": "^4.17.10"
+  }
+}
