@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/dima-bu/emitter.git"
+    "url": "git+https://github.com/dima-bu/emitter.git"
   },
   "keywords": [
     "react",
@@ -14,10 +14,15 @@
   ],
   "author": "Andrey Shetinin",
   "license": "MIT",
-  "devDependencies": {
-
-  },
+  "devDependencies": {},
   "dependencies": {
     "lodash": "^4.17.10"
+  },
+  "bugs": {
+    "url": "https://github.com/dima-bu/emitter/issues"
+  },
+  "homepage": "https://github.com/dima-bu/emitter#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   }
 }
